@@ -1,7 +1,7 @@
 # Movie Ticket Booking System - Version 2.0
 #Feature : Book and Cancel Tickets
 
-catalogue = ["Project Hail Mary", "Spider-Man Brand New Day","The Odyssey","Obsession"]
+catalogue = ["Project Hail Mary", "Spider-Man Brand New Day","The Odyssey","Obsession", "Barbie"]
 
 def book_ticket(ticket_id, user_id) :
   print("Ticket", ticket_id, "Confirmed Ticket of", user_id)
